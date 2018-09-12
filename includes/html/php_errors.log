@@ -1,0 +1,9 @@
+[25-Apr-2018 15:49:01 UTC] PHP Notice:  Undefined variable: isDev in E:\inetpub\wwwroot\wateruse_dev\includes\html\header_new.php on line 5
+[25-Apr-2018 15:49:01 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\html\header_new.php on line 11
+[25-Apr-2018 15:49:01 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\html\header_new.php on line 12
+[25-Apr-2018 15:49:01 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\html\header_new.php on line 38
+[25-Apr-2018 15:49:01 UTC] PHP Notice:  Use of undefined constant PHASE - assumed 'PHASE' in E:\inetpub\wwwroot\wateruse_dev\includes\html\header_new.php on line 67
+[25-Apr-2018 15:49:01 UTC] PHP Notice:  Use of undefined constant VERSION - assumed 'VERSION' in E:\inetpub\wwwroot\wateruse_dev\includes\html\header_new.php on line 67
+[25-Apr-2018 15:49:01 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\html\header_new.php on line 69
+[25-Apr-2018 15:49:01 UTC] PHP Notice:  Undefined variable: _SESSION in E:\inetpub\wwwroot\wateruse_dev\includes\html\header_new.php on line 89
+[25-Apr-2018 15:49:01 UTC] PHP Notice:  Undefined variable: _SESSION in E:\inetpub\wwwroot\wateruse_dev\includes\html\header_new.php on line 125

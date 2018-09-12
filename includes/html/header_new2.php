@@ -1,0 +1,108 @@
+<?php if(!defined('BASE_PATH')) {
+   die('Direct access not permitted');
+}; ?>
+
+<a href="#" id="return-to-top"><i class="icon-chevron-up"></i></a>
+
+
+<nav class="navbar navbar-static-top marginBottom-0" role="navigation"  style="  background: #fff;border-bottom: 1px solid #666;
+    border-color: #e5e5e5;">
+	 
+  <div class="navbar-header">
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1" style="font-size:35px;">
+      <i class="fa fa-bars" aria-hidden="true"></i>
+    </button>
+    
+<a href="#" id="logo" class="navbar-brand"  style="z-index:-1;"></a>
+  </div>
+  
+  <div class="collapse navbar-collapse" id="navbar-collapse-1" style="z-index:100; margin-top:15px; margin-right:25px; "  >
+    
+	<ul class="nav navbar-nav navbar-right" >
+      <li><a href="#" id="home">Home</a></li>
+
+      <li class="dropdown">
+        <a href="#"  class="dropdown-toggle" data-toggle="dropdown">Wells Registration <b class="caret"></b></a>
+        <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
+          <li><a  href="https://wise.er.usgs.gov/<?php echo $dir; ?>/wells/" target="_blank">Main Center</a></li>
+          <li><a href="#" id="reports">Reports</a></li>
+    
+     
+          <li class="dropdown-submenu">
+            <a tabindex="-1" href="#">Add </a>
+            <ul class="dropdown-menu">
+				<li><a href="#" id="add-diverter" target="_blank" class='dropdown-toggle' style="z-index:-999"> New Diverter </a></li>
+				<li><a href="#"   id="add-owner"  target="_blank" class='dropdown-toggle' style="z-index:-999"> New Owner </a></li>
+				<li><a href="#" id="add-facility"  target="_blank" class='dropdown-toggle' style="z-index:-999"> New Facility </a></li>
+            
+             
+            </ul>
+          </li>
+		  <li class="divider"></li>
+          <li><a href="#" id="report-bug" class="dropdown-toggle" data-toggle="dropdown">Report a Bug</a></li>
+        </ul>
+      </li>
+	   
+	  <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Water-use Data <b class="caret"></b></a>
+	  <?php if ($_SESSION) {?>
+		  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
+			  <li><a href="#" id ="wupublic"> Search Public Data </a></li>
+			  <li><a href="#"  id="wuinternal">Search Internal </a></li>
+			  <li class="dropdown-submenu"><a href="#"  id="wuagg" > Aggregated Reports </a>
+				<ul class="dropdown-menu" style="
+					margin-right: -185px;
+					margin-bottom: 50px;">
+								<li><a href="#" id="wuagg-monthly" target="_blank" class='dropdown-toggle' style="z-index:-999"> Monthly  Reports</a></li>
+								<li><a href="#"   id="wuagg-crops"  target="_blank" class='dropdown-toggle' style="z-index:-999"> Crops Statistics </a></li>
+								<li><a href="#" id="wuagg-swreports"  target="_blank" class='dropdown-toggle' style="z-index:-999"> Surface Water Reports </a></li>
+								<li><a href="#" id="wuagg-annual"  target="_blank" class='dropdown-toggle' style="z-index:-999"> Annual Data </a></li>
+							
+							 
+							</ul>
+
+			  </li>
+
+
+			  <li class="divider"></li>
+			  <li><a href="#" id="report-bug" class="dropdown-toggle" data-toggle="dropdown">Report a Bug</a></li>
+		</ul>
+	  <?php } else {?>
+	  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
+			  <li><a href="#" id ="wupublic"> Search Public Data </a></li>
+			  <li class="dropdown-submenu"><a href="#"  id="wuagg" > Aggregated Reports </a>
+				<ul class="dropdown-menu" style=" margin-right: -185px; margin-bottom: 50px;>
+								<li><a href="#" id="wuagg-monthly" target="_blank" class='dropdown-toggle' style="z-index:-999"> Monthly  Reports</a></li>
+								<li><a href="#"   id="wuagg-crops"  target="_blank" class='dropdown-toggle' style="z-index:-999"> Crops Statistics </a></li>
+								<li><a href="#" id="wuagg-swreports"  target="_blank" class='dropdown-toggle' style="z-index:-999"> Surface Water Reports </a></li>
+								<li><a href="#" id="wuagg-annual"  target="_blank" class='dropdown-toggle' style="z-index:-999"> Annual Data </a></li>
+							
+							 
+							</ul>
+
+			  </li>
+
+
+			  <li class="divider"></li>
+			  <li><a href="#" id="report-bug" class="dropdown-toggle" data-toggle="dropdown">Report a Bug</a></li>
+		</ul>
+	  <?php } ?>
+	  </li>
+	  <li><a href="#" id="about">About Water Use Project</a></li>
+	  <li><a href="#" id="contactus">Contact Us</a></li>
+		<?php if ($_SESSION) {?>
+	  <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Hello,  <?php print ucfirst($_SESSION['USER_ID']); ?><b class="caret"></b></a>
+
+		  <ul class="dropdown-menu" role="menu" aria-labelledby="dropdownMenu">
+			  <li><a href="#"  onClick="javascript:alert('Coming Soon!');"> Account Settings </a></li>
+			  <li><a href="#"  id="logout">Logout</a></li>
+		</ul>
+	  <?php }else{ ?>
+		  <li><a href="#" class="dropdown"  id ="login">Account</a></li>
+	  <?php } ?>
+	  </li>
+    </ul>
+    
+  </div>
+  <!-- /.navbar-collapse -->
+  
+</nav>
