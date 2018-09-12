@@ -226,8 +226,9 @@
 				alert("Internal Server Error! Please contact the administrator");
 			}
 		});
-		$("#method"+n).append("<option value='SP'>Sprinkler</option>");
+		
 		$("#method"+n).append("<option value='FU' selected>Furrow</option>");
+		$("#method"+n).append("<option value='SP'>Sprinkler</option>");
 		$("#method"+n).append("<option value='CP'>Center Pivot</option>");
 		$("#method"+n).append("<option value='FL'>Flood</option>");
 		
