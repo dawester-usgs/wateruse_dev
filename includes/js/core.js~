@@ -1,4 +1,0 @@
-$(document).ready(function(){
-	location.href ="#search?q=water-use";
-	$(".main").load("includes/html/search.php");	
-});
