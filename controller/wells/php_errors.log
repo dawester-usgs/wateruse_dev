@@ -1,0 +1,160 @@
+[03-Jan-2018 18:34:07 UTC] PHP Deprecated:  Function mcrypt_create_iv() is deprecated in E:\inetpub\wwwroot\wateruse\includes\config.php on line 14
+[03-Jan-2018 18:34:11 UTC] PHP Deprecated:  Function mcrypt_create_iv() is deprecated in E:\inetpub\wwwroot\wateruse\includes\config.php on line 14
+[03-Jan-2018 18:34:25 UTC] PHP Deprecated:  Function mcrypt_create_iv() is deprecated in E:\inetpub\wwwroot\wateruse\includes\config.php on line 14
+[03-Jan-2018 18:34:43 UTC] PHP Deprecated:  Function mcrypt_create_iv() is deprecated in E:\inetpub\wwwroot\wateruse\includes\config.php on line 14
+[03-Jan-2018 18:36:40 UTC] PHP Deprecated:  Function mcrypt_create_iv() is deprecated in E:\inetpub\wwwroot\wateruse\includes\config.php on line 15
+[03-Jan-2018 18:37:50 UTC] PHP Fatal error:  Uncaught ArgumentCountError: random_bytes() expects exactly 1 parameter, 2 given in E:\inetpub\wwwroot\wateruse\includes\config.php:15
+Stack trace:
+#0 E:\inetpub\wwwroot\wateruse\includes\config.php(15): random_bytes(64, 0)
+#1 E:\inetpub\wwwroot\wateruse\controller\wells\type.php(5): include('E:\\inetpub\\wwwr...')
+#2 {main}
+  thrown in E:\inetpub\wwwroot\wateruse\includes\config.php on line 15
+[03-Jan-2018 18:46:20 UTC] PHP Parse error:  syntax error, unexpected '$row' (T_VARIABLE), expecting ')' in E:\inetpub\wwwroot\wateruse\controller\wells\type.php on line 148
+[11-Feb-2018 09:49:05 UTC] PHP Parse error:  syntax error, unexpected '".date('d-M-y')."' (T_CONSTANT_ENCAPSED_STRING) in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6252
+[11-Feb-2018 09:49:20 UTC] PHP Parse error:  syntax error, unexpected '".date('d-M-y')."' (T_CONSTANT_ENCAPSED_STRING) in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6252
+[12-Feb-2018 17:32:23 UTC] PHP Parse error:  syntax error, unexpected ')', expecting end of file in E:\inetpub\wwwroot\wateruse_dev\controller\wells\mpid.php on line 328
+[12-Feb-2018 17:39:53 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ')' in E:\inetpub\wwwroot\wateruse_dev\controller\wells\mpid.php on line 475
+[12-Feb-2018 17:40:17 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in E:\inetpub\wwwroot\wateruse_dev\controller\wells\mpid.php on line 436
+[12-Feb-2018 17:41:04 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ')' in E:\inetpub\wwwroot\wateruse_dev\controller\wells\mpid.php on line 475
+[12-Feb-2018 17:41:42 UTC] PHP Parse error:  syntax error, unexpected '}', expecting ')' in E:\inetpub\wwwroot\wateruse_dev\controller\wells\mpid.php on line 475
+[12-Feb-2018 17:57:20 UTC] PHP Parse error:  syntax error, unexpected ';' in E:\inetpub\wwwroot\wateruse_dev\controller\wells\mpid.php on line 443
+[13-Feb-2018 13:38:51 UTC] PHP Parse error:  syntax error, unexpected ';' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6235
+[13-Feb-2018 13:38:51 UTC] PHP Parse error:  syntax error, unexpected ';' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6235
+[13-Feb-2018 15:58:39 UTC] PHP Parse error:  syntax error, unexpected '$addRelayStation' (T_VARIABLE) in E:\inetpub\wwwroot\wateruse_dev\controller\wells\mpid.php on line 458
+[14-Feb-2018 19:20:21 UTC] PHP Parse error:  syntax error, unexpected '.', expecting variable (T_VARIABLE) or '{' or '$' in E:\inetpub\wwwroot\wateruse_dev\controller\wells\searchmpid3.php on line 54
+[14-Feb-2018 19:27:06 UTC] PHP Parse error:  syntax error, unexpected '}' in E:\inetpub\wwwroot\wateruse_dev\controller\wells\searchmpid3.php on line 93
+[14-Feb-2018 21:15:26 UTC] PHP Parse error:  syntax error, unexpected ';' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6235
+[14-Feb-2018 21:15:39 UTC] PHP Parse error:  syntax error, unexpected ';' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6235
+[14-Feb-2018 21:29:43 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6696
+[14-Feb-2018 21:34:52 UTC] PHP Parse error:  syntax error, unexpected '$parserAnnData' (T_VARIABLE) in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6314
+[14-Feb-2018 21:47:16 UTC] PHP Parse error:  syntax error, unexpected '$setnewMPID' (T_VARIABLE) in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6175
+[14-Feb-2018 22:28:22 UTC] PHP Parse error:  syntax error, unexpected '}', expecting end of file in E:\inetpub\wwwroot\wateruse_dev\controller\wells\mpid.php on line 457
+[15-Feb-2018 00:52:26 UTC] PHP Parse error:  syntax error, unexpected ',' in E:\inetpub\wwwroot\wateruse_dev\controller\wells\searchanndata.php on line 118
+[15-Feb-2018 00:52:46 UTC] PHP Parse error:  syntax error, unexpected ',' in E:\inetpub\wwwroot\wateruse_dev\controller\wells\searchanndata.php on line 106
+[15-Feb-2018 00:52:59 UTC] PHP Parse error:  syntax error, unexpected ',' in E:\inetpub\wwwroot\wateruse_dev\controller\wells\searchanndata.php on line 120
+[15-Feb-2018 00:53:14 UTC] PHP Parse error:  syntax error, unexpected end of file in E:\inetpub\wwwroot\wateruse_dev\controller\wells\searchanndata.php on line 178
+[15-Feb-2018 00:53:28 UTC] PHP Parse error:  syntax error, unexpected ',' in E:\inetpub\wwwroot\wateruse_dev\controller\wells\searchanndata.php on line 106
+[15-Feb-2018 01:26:45 UTC] PHP Parse error:  syntax error, unexpected '}' in E:\inetpub\wwwroot\wateruse_dev\controller\wells\searchmpid.php on line 266
+[15-Feb-2018 02:15:09 UTC] PHP Parse error:  syntax error, unexpected '}' in E:\inetpub\wwwroot\wateruse_dev\controller\wells\searchanndata.php on line 54
+[15-Feb-2018 02:23:01 UTC] PHP Parse error:  syntax error, unexpected '"moved"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in E:\inetpub\wwwroot\wateruse_dev\controller\wells\mpid.php on line 409
+[15-Feb-2018 02:23:02 UTC] PHP Parse error:  syntax error, unexpected '"moved"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in E:\inetpub\wwwroot\wateruse_dev\controller\wells\mpid.php on line 409
+[15-Feb-2018 02:42:05 UTC] PHP Parse error:  syntax error, unexpected ']' in E:\inetpub\wwwroot\wateruse_dev\controller\wells\mpid.php on line 349
+[20-Feb-2018 00:45:05 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6362
+[20-Feb-2018 00:45:21 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6362
+[20-Feb-2018 00:57:09 UTC] PHP Parse error:  syntax error, unexpected ':' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6346
+[20-Feb-2018 00:59:04 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 4595
+[21-Feb-2018 19:03:24 UTC] PHP Parse error:  syntax error, unexpected '"'' (T_CONSTANT_ENCAPSED_STRING) in E:\inetpub\wwwroot\wateruse_dev\controller\wells\mpid.php on line 87
+[21-Feb-2018 21:59:05 UTC] PHP Parse error:  syntax error, unexpected ';' in E:\inetpub\wwwroot\wateruse_dev\controller\wells\mpid.php on line 584
+[21-Feb-2018 21:59:24 UTC] PHP Parse error:  syntax error, unexpected ';' in E:\inetpub\wwwroot\wateruse_dev\controller\wells\mpid.php on line 584
+[07-Mar-2018 10:44:00 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6143
+[07-Mar-2018 10:44:44 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6143
+[07-Mar-2018 10:45:22 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6143
+[07-Mar-2018 10:46:24 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6138
+[07-Mar-2018 10:47:06 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6138
+[07-Mar-2018 10:47:41 UTC] PHP Parse error:  syntax error, unexpected '$sqlSet' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6222
+[07-Mar-2018 10:48:27 UTC] PHP Parse error:  syntax error, unexpected '$value' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6206
+[07-Mar-2018 10:48:37 UTC] PHP Parse error:  syntax error, unexpected '$sqlSet' (T_VARIABLE), expecting function (T_FUNCTION) or const (T_CONST) in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6223
+[07-Mar-2018 11:01:49 UTC] PHP Parse error:  syntax error, unexpected 'elseif' (T_ELSEIF) in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6152
+[07-Mar-2018 11:06:56 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting function (T_FUNCTION) or const (T_CONST) in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6734
+[12-Mar-2018 14:36:31 UTC] PHP Parse error:  syntax error, unexpected 'INNER' (T_STRING) in E:\inetpub\wwwroot\wateruse_dev\controller\wells\type.php on line 69
+[12-Mar-2018 14:36:37 UTC] PHP Parse error:  syntax error, unexpected 'INNER' (T_STRING) in E:\inetpub\wwwroot\wateruse_dev\controller\wells\type.php on line 69
+[12-Mar-2018 19:25:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at E:\inetpub\wwwroot\wateruse_dev\controller\wells\updatedata.php:1) in E:\inetpub\wwwroot\wateruse_dev\controller\wells\updatedata.php on line 28
+[12-Mar-2018 19:25:58 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at E:\inetpub\wwwroot\wateruse_dev\controller\wells\updatedata.php:1) in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 12
+[12-Mar-2018 19:26:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at E:\inetpub\wwwroot\wateruse_dev\controller\wells\updatedata.php:1) in E:\inetpub\wwwroot\wateruse_dev\controller\wells\updatedata.php on line 28
+[12-Mar-2018 19:26:04 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at E:\inetpub\wwwroot\wateruse_dev\controller\wells\updatedata.php:1) in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 12
+[05-Apr-2018 15:58:10 UTC] PHP Parse error:  syntax error, unexpected '$sqlQuery2' (T_VARIABLE) in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 4398
+[18-Jun-2018 19:42:02 UTC] PHP Parse error:  syntax error, unexpected '"permit"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in E:\inetpub\wwwroot\wateruse_dev\controller\wells\type.php on line 152
+[18-Jun-2018 19:42:24 UTC] PHP Parse error:  syntax error, unexpected '"permit"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in E:\inetpub\wwwroot\wateruse_dev\controller\wells\type.php on line 152
+[18-Jun-2018 19:42:35 UTC] PHP Parse error:  syntax error, unexpected '"permit"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in E:\inetpub\wwwroot\wateruse_dev\controller\wells\type.php on line 152
+[18-Jun-2018 19:42:37 UTC] PHP Parse error:  syntax error, unexpected '"permit"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in E:\inetpub\wwwroot\wateruse_dev\controller\wells\type.php on line 152
+[21-Jun-2018 16:29:00 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '{' or '$' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6617
+[21-Jun-2018 16:41:34 UTC] PHP Parse error:  syntax error, unexpected ';' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6572
+[21-Jun-2018 16:55:20 UTC] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR), expecting ',' or ')' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6610
+[21-Jun-2018 16:55:54 UTC] PHP Parse error:  syntax error, unexpected '"\)."' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6610
+[29-Jun-2018 20:34:46 UTC] PHP Parse error:  syntax error, unexpected '.' in E:\inetpub\wwwroot\wateruse_dev\controller\wells\facilityData.php on line 38
+[02-Jul-2018 17:46:41 UTC] PHP Parse error:  syntax error, unexpected ''centroid'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in E:\inetpub\wwwroot\wateruse_dev\controller\wells\searchanndata.php on line 303
+[02-Jul-2018 17:47:00 UTC] PHP Parse error:  syntax error, unexpected ''centroid'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in E:\inetpub\wwwroot\wateruse_dev\controller\wells\searchanndata.php on line 303
+[02-Jul-2018 17:47:03 UTC] PHP Parse error:  syntax error, unexpected ''centroid'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in E:\inetpub\wwwroot\wateruse_dev\controller\wells\searchanndata.php on line 303
+[02-Jul-2018 17:47:43 UTC] PHP Parse error:  syntax error, unexpected ''centroid'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in E:\inetpub\wwwroot\wateruse_dev\controller\wells\searchanndata.php on line 303
+[02-Jul-2018 17:48:19 UTC] PHP Parse error:  syntax error, unexpected ''centroid'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in E:\inetpub\wwwroot\wateruse_dev\controller\wells\searchanndata.php on line 303
+[06-Jul-2018 18:00:20 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting function (T_FUNCTION) or const (T_CONST) in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 4881
+[06-Jul-2018 18:01:24 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting function (T_FUNCTION) or const (T_CONST) in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 4881
+[11-Jul-2018 19:37:08 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\controller\wells\updateinfo.php on line 28
+[11-Jul-2018 19:37:08 UTC] PHP Warning:  A non-numeric value encountered in E:\inetpub\wwwroot\wateruse_dev\controller\wells\updateinfo.php on line 28
+[11-Jul-2018 19:37:08 UTC] PHP Warning:  A non-numeric value encountered in E:\inetpub\wwwroot\wateruse_dev\controller\wells\updateinfo.php on line 28
+[12-Jul-2018 04:48:28 UTC] PHP Parse error:  syntax error, unexpected '}' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6178
+[13-Jul-2018 19:18:12 UTC] PHP Parse error:  syntax error, unexpected '=' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6276
+[14-Jul-2018 03:05:42 UTC] PHP Parse error:  syntax error, unexpected ',' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6265
+[14-Jul-2018 03:07:04 UTC] PHP Parse error:  syntax error, unexpected '(' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6265
+[14-Jul-2018 03:07:10 UTC] PHP Parse error:  syntax error, unexpected '(' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6265
+[14-Jul-2018 03:07:18 UTC] PHP Parse error:  syntax error, unexpected ',' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6265
+[14-Jul-2018 03:07:33 UTC] PHP Parse error:  syntax error, unexpected ',' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6267
+[14-Jul-2018 03:44:45 UTC] PHP Parse error:  syntax error, unexpected '{' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6186
+[14-Jul-2018 04:09:17 UTC] PHP Parse error:  syntax error, unexpected '"' in E:\inetpub\wwwroot\wateruse_dev\controller\wells\facilityData.php on line 41
+[14-Jul-2018 04:26:24 UTC] PHP Parse error:  syntax error, unexpected '}' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6381
+[16-Jul-2018 07:30:41 America/Denver] PHP Warning:  oci_connect(): OCI_SUCCESS_WITH_INFO: ORA-28002: the password will expire within 5 days in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 116
+[16-Jul-2018 07:33:58 America/Denver] PHP Warning:  oci_connect(): OCI_SUCCESS_WITH_INFO: ORA-28002: the password will expire within 5 days in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 116
+[16-Jul-2018 07:34:09 America/Denver] PHP Warning:  oci_connect(): OCI_SUCCESS_WITH_INFO: ORA-28002: the password will expire within 5 days in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 116
+[16-Jul-2018 14:29:59 America/Denver] PHP Warning:  oci_connect(): OCI_SUCCESS_WITH_INFO: ORA-28002: the password will expire within 5 days in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 116
+[17-Jul-2018 00:33:55 UTC] PHP Parse error:  syntax error, unexpected ';' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 7238
+[17-Jul-2018 01:08:51 UTC] PHP Parse error:  syntax error, unexpected '$local_desc' (T_VARIABLE) in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 5496
+[30-Jul-2018 19:29:52 UTC] PHP Parse error:  syntax error, unexpected ';' in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\users.php on line 23
+[30-Jul-2018 19:29:58 UTC] PHP Parse error:  syntax error, unexpected ';' in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\users.php on line 23
+[29-Aug-2018 04:40:39 UTC] PHP Notice:  Undefined index: section in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 8
+[29-Aug-2018 04:40:39 UTC] PHP Notice:  Undefined index: township in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 9
+[29-Aug-2018 04:40:39 UTC] PHP Notice:  Undefined index: range in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 10
+[29-Aug-2018 04:40:39 UTC] PHP Notice:  Undefined index: data in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 13
+[29-Aug-2018 04:40:55 UTC] PHP Notice:  Undefined index: section in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 8
+[29-Aug-2018 04:40:55 UTC] PHP Notice:  Undefined index: township in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 9
+[29-Aug-2018 04:40:55 UTC] PHP Notice:  Undefined index: range in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 10
+[29-Aug-2018 04:40:55 UTC] PHP Notice:  Undefined index: data in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 13
+[29-Aug-2018 04:41:50 UTC] PHP Notice:  Undefined index: section in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 8
+[29-Aug-2018 04:41:50 UTC] PHP Notice:  Undefined index: township in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 9
+[29-Aug-2018 04:41:50 UTC] PHP Notice:  Undefined index: range in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 10
+[29-Aug-2018 04:41:50 UTC] PHP Notice:  Undefined index: data in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 13
+[29-Aug-2018 06:03:49 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF), expecting variable (T_VARIABLE) or '{' or '$' in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 26
+[29-Aug-2018 06:21:55 UTC] PHP Parse error:  syntax error, unexpected '@', expecting ',' or ')' in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 82
+[29-Aug-2018 08:23:01 UTC] PHP Parse error:  syntax error, unexpected ']' in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 17
+[30-Aug-2018 07:38:04 UTC] PHP Fatal error:  Can't use function return value in write context in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 17
+[30-Aug-2018 08:17:25 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 44
+[30-Aug-2018 08:58:16 UTC] PHP Parse error:  syntax error, unexpected 'in' (T_STRING) in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 33
+[30-Aug-2018 08:58:59 UTC] PHP Parse error:  syntax error, unexpected 'in' (T_STRING) in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 33
+[30-Aug-2018 09:00:13 UTC] PHP Parse error:  syntax error, unexpected '.' in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 85
+[30-Aug-2018 09:02:17 UTC] PHP Parse error:  syntax error, unexpected '=' in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 75
+[30-Aug-2018 09:11:38 UTC] PHP Parse error:  syntax error, unexpected '}' in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 215
+[30-Aug-2018 09:34:20 UTC] PHP Parse error:  syntax error, unexpected ''+'' (T_CONSTANT_ENCAPSED_STRING) in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 215
+[30-Aug-2018 09:35:37 UTC] PHP Parse error:  syntax error, unexpected '=' in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 92
+[30-Aug-2018 12:02:23 UTC] PHP Parse error:  syntax error, unexpected '$dataAnnData' (T_VARIABLE), expecting ',' or ')' in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 251
+[30-Aug-2018 14:15:27 UTC] PHP Parse error:  syntax error, unexpected '$key' (T_VARIABLE) in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 109
+[30-Aug-2018 14:15:34 UTC] PHP Parse error:  syntax error, unexpected '$key' (T_VARIABLE) in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 109
+[03-Sep-2018 07:44:51 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ';' in E:\inetpub\wwwroot\wateruse_dev2\includes\config.php on line 7768
+[03-Sep-2018 08:49:02 UTC] PHP Parse error:  syntax error, unexpected '$key' (T_VARIABLE) in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 124
+[03-Sep-2018 08:53:20 UTC] PHP Parse error:  syntax error, unexpected end of file in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 286
+[03-Sep-2018 08:53:30 UTC] PHP Parse error:  syntax error, unexpected end of file in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 282
+[03-Sep-2018 08:54:04 UTC] PHP Parse error:  syntax error, unexpected end of file in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 278
+[03-Sep-2018 08:54:12 UTC] PHP Parse error:  syntax error, unexpected end of file in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 281
+[03-Sep-2018 09:02:58 UTC] PHP Parse error:  syntax error, unexpected ')' in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 149
+[03-Sep-2018 09:36:44 UTC] PHP Parse error:  syntax error, unexpected 'trim' (T_STRING) in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 167
+[03-Sep-2018 09:36:53 UTC] PHP Parse error:  syntax error, unexpected 'trim' (T_STRING) in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 167
+[03-Sep-2018 10:02:11 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 323
+[03-Sep-2018 10:02:14 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ')' in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 323
+[03-Sep-2018 10:18:38 UTC] PHP Parse error:  syntax error, unexpected ',' in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 293
+[03-Sep-2018 10:19:05 UTC] PHP Parse error:  syntax error, unexpected ',' in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 295
+[03-Sep-2018 10:19:18 UTC] PHP Parse error:  syntax error, unexpected ',' in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 321
+[03-Sep-2018 10:19:20 UTC] PHP Parse error:  syntax error, unexpected ',' in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 321
+[03-Sep-2018 11:02:13 UTC] PHP Parse error:  syntax error, unexpected ',' in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 321
+[03-Sep-2018 11:08:02 UTC] PHP Parse error:  syntax error, unexpected ')' in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 290
+[03-Sep-2018 12:35:09 UTC] PHP Fatal error:  Can't use function return value in write context in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 36
+[03-Sep-2018 13:11:32 UTC] PHP Parse error:  syntax error, unexpected 'inLat' (T_STRING) in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 228
+[04-Sep-2018 12:32:16 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in E:\inetpub\wwwroot\wateruse_dev2\controller\wells\advance_search.php on line 177
+[11-Sep-2018 15:15:27 UTC] PHP Parse error:  syntax error, unexpected 'ann_data' (T_STRING) in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 5675
+[11-Sep-2018 15:59:29 UTC] PHP Notice:  Undefined variable: sql in E:\inetpub\wwwroot\wateruse_dev\controller\wells\saveanndata2.php on line 3
+[11-Sep-2018 15:59:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in E:\inetpub\wwwroot\wateruse_dev\controller\wells\saveanndata2.php:3
+Stack trace:
+#0 {main}
+  thrown in E:\inetpub\wwwroot\wateruse_dev\controller\wells\saveanndata2.php on line 3
+[11-Sep-2018 16:00:59 UTC] PHP Notice:  Undefined variable: sql in E:\inetpub\wwwroot\wateruse_dev\controller\wells\saveanndata2.php on line 3
+[11-Sep-2018 16:00:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function insert() on null in E:\inetpub\wwwroot\wateruse_dev\controller\wells\saveanndata2.php:3
+Stack trace:
+#0 {main}
+  thrown in E:\inetpub\wwwroot\wateruse_dev\controller\wells\saveanndata2.php on line 3

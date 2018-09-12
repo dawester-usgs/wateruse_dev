@@ -1,0 +1,147 @@
+<div style="margin-top:50px;height:20px; height:100%; border-top: 3px solid red; padding:10px;" id="notice">
+		CHANGE NOTES:
+		Version: 3.0.1.11 (as of 11/16/17 4:29:12 AM EST)
+						<ul> <strong> In-development: </strong>
+							
+							<li>Facility Center.  </li>
+							
+						</ul> 
+						
+						<ul> 	<strong> Recently Added features: </strong>
+							<li>Diverter is now the default type.  </li>
+							<li>Increased Inactivity warning from 2 minutes to 15 minutes.  </li>
+							<li>Increased Entries per Page from maximum of 25 to 150  </li>
+							<li>Set the default Entries per Page from 10 to 25  </li>
+							<li>Inactive/Abandoned Wells/Sites is now toggable. (Hide/show inactive/abandoned sites)  </li>
+							<li>Facility Wells/Sites are now editable. </li>
+							<li>Minor issues bug fix </li>
+							<li>Can now filter by Diverter/Owner using radio button when displaying MPIDs </li>
+							<li>Added a count column that numbers the list of MPID</li>
+							<li>Totals added for each type of MPID added at top of Annual Data Center</li>
+							<li> Changing owner &amp;/ diverter for multiple MPIDs.</li>
+						</ul> 
+						
+						<ul> <strong> Future features:  </strong>
+			
+							<li> Enhancing print out forms.  </li>
+							
+						</ul> 
+						
+						
+			
+		</div>
+		
+		
+		<div style="margin-top:50px;height:20px; height:100%; border-top: 3px solid red; padding:10px;" id="notice">
+		CHANGE NOTES:
+		Version: 3.0.1.14 (as of 11/25/17 8:59:59 AM EST)
+						<ul> <strong> In-development: </strong>
+							
+							<li>Facility Center.  </li>
+							
+						</ul> 
+						
+						<ul> 	<strong> Recently Added features: </strong>
+							<li>Diverter is now the default type.  </li>
+							<li>Increased Inactivity warning from 2 minutes to 15 minutes.  </li>
+							<li>Increased Entries per Page from maximum of 25 to 150  </li>
+							<li>Set the default Entries per Page from 10 to 25  </li>
+							<li>Inactive/Abandoned Wells/Sites is now toggable. (Hide/show inactive/abandoned sites)  </li>
+							<li>Facility Wells/Sites are now editable. </li>
+							<li>Minor issues bug fix </li>
+							<li>Can now filter by Diverter/Owner using radio button when displaying MPIDs </li>
+							<li>Added a count column that numbers the list of MPID</li>
+							<li>Totals added for each type of MPID added at top of Annual Data Center</li>
+							<li> Changing owner &amp;/ diverter for multiple MPIDs.</li>
+						</ul> 
+						
+						<ul> <strong> Future features:  </strong>
+			
+							<li> Enhancing print out forms.  </li>
+							
+						</ul> 
+						
+						<ul> 
+							<strong> BUG FIXES </strong>
+						</ul>
+						
+						
+			
+		</div>
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+####################################
+#### ALPHA VERSION CHANGE NOTES ####
+####################################
+
+
+CHANGE NOTES: Alpha v3.0.1.30 (as of 03/26/18 05:19:00 AM EST)
+In-development:
+Facility Center. Progress : 70%; Pending/in-development.
+Newly(ish) Added Features (since 3.0.1.29):
+Map View: Ability to view all Wells on a Map
+Enhanced Searching (Improved JSON data request)
+Functional Multi-move and Multi-payment
+Better Error/Warning and Message Handling
+Improved Visuals on Main Center.
+Bug Fixes
+Fixed Missing Diverter/Owner
+Fixed "Error" on Add new Annual data
+
+
+=============================================================================================================================
+
+CHANGE NOTES: Alpha v3.0.1.31 (as of 03/30/18 2:39:00 AM EST)
+In-development:
+Facility Center. Progress : 70%; on-hold.
+Newly added Feature
+Added County name and county code in 'Filter by My County' option
+Added ReadME.md for developers.
+Bug Fixes
+Fixed Missing Diverter/Owner [Report County issue]
+Fixed Pagination error in Main Center.
+Other Aesthetic Bugs.
+
+==========================================================================================================================================
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+###############################################################
+################# OFFICIAL BETA PHASE #########################
+###############################################################
+
+
+CHANGE NOTES: Beta v3.0.2.0 (as of 04/02/18 11:08:00 AM EST)
+In-development:
+Facility Center. Progress : 70%; on-hold.
+Bug Fixes
+Fixed Missing Year Dropdown
+Fixed error with select specific Owner/Diverter in Owner/Diverter List.
+Fixed error handling bug.
+Others:
+Moved Development Phase from ALPHA to Beta version.
+
+CHANGE NOTES: Beta v3.0.2.1 (as of 04/05/18 4:24:00 PM EST)
+In-development:
+Facility Center. Progress : 70%; on-hold.
+Bug Fixes
+Fixed Missing/Duplicating MPID
+Fixed Main Center's MPIDs algorithm
+Added Incrementation for Wells that are virtually close based on location.
+Others:
+Moved Development Phase from ALPHA to Beta version.
+Cookies on Water Use App 
+
+
+CHANGE NOTES: Beta v3.0.2.2 (as of 04/25/18 2:10:00 AM EST)
+In-development:
+Facility Center. Progress : 75%; in-development.
+Bug Fixes
+Fixed duplicating Issue.
+Tweak an Issue regarding Diverter's Owner List (vice-versa)
+Fixed missing payments and Owners/Diverters
+
+
+

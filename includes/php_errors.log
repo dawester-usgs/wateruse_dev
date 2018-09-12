@@ -1,0 +1,170 @@
+[03-Jan-2018 18:33:56 UTC] PHP Deprecated:  Function mcrypt_create_iv() is deprecated in E:\inetpub\wwwroot\wateruse\includes\config.php on line 14
+[03-Jan-2018 18:36:58 UTC] PHP Deprecated:  Function mcrypt_create_iv() is deprecated in E:\inetpub\wwwroot\wateruse\includes\config.php on line 15
+[04-Jan-2018 20:49:01 UTC] PHP Notice:  Undefined index: q in E:\inetpub\wwwroot\wateruse\index.php on line 4
+[04-Jan-2018 20:49:01 UTC] PHP Notice:  Undefined index: USER_ID in E:\inetpub\wwwroot\wateruse\includes\config.php on line 19
+[08-Jan-2018 13:46:31 UTC] PHP Notice:  Undefined index: q in E:\inetpub\wwwroot\wateruse\index.php on line 4
+[08-Jan-2018 13:46:34 UTC] PHP Notice:  Undefined index: q in E:\inetpub\wwwroot\wateruse\index.php on line 4
+[08-Jan-2018 14:23:12 UTC] PHP Notice:  Undefined index: q in E:\inetpub\wwwroot\wateruse\index.php on line 4
+[08-Jan-2018 14:23:12 UTC] PHP Notice:  Undefined index: USER_ID in E:\inetpub\wwwroot\wateruse\includes\config.php on line 19
+[08-Jan-2018 14:23:30 UTC] PHP Notice:  Undefined index: USER_ID in E:\inetpub\wwwroot\wateruse\includes\config.php on line 19
+[09-Jan-2018 14:47:52 UTC] PHP Notice:  Undefined index: q in E:\inetpub\wwwroot\wateruse\index.php on line 4
+[09-Jan-2018 16:03:34 UTC] PHP Notice:  Undefined index: USER_ID in E:\inetpub\wwwroot\wateruse\includes\config.php on line 19
+[09-Jan-2018 16:03:47 UTC] PHP Notice:  Undefined index: USER_ID in E:\inetpub\wwwroot\wateruse\includes\config.php on line 19
+[12-Jan-2018 23:49:15 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[12-Jan-2018 23:49:15 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[12-Jan-2018 23:50:45 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[12-Jan-2018 23:50:45 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[12-Jan-2018 23:51:06 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[12-Jan-2018 23:51:06 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[12-Jan-2018 23:59:46 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[12-Jan-2018 23:59:46 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[13-Jan-2018 01:03:52 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[13-Jan-2018 01:03:52 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[13-Jan-2018 01:21:17 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[13-Jan-2018 01:21:17 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[13-Jan-2018 01:21:44 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[13-Jan-2018 01:21:44 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[13-Jan-2018 01:46:25 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[13-Jan-2018 01:46:25 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[13-Jan-2018 03:29:33 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[13-Jan-2018 03:29:33 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[13-Jan-2018 06:10:55 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[13-Jan-2018 06:10:55 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[13-Jan-2018 06:12:23 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[13-Jan-2018 06:12:23 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[13-Jan-2018 10:24:32 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[13-Jan-2018 10:24:32 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[14-Jan-2018 13:24:43 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[14-Jan-2018 13:24:43 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[14-Jan-2018 17:00:39 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[14-Jan-2018 17:00:39 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 01:33:10 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 01:33:10 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 01:33:29 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 01:33:29 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 01:33:32 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 01:33:32 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 01:33:49 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 01:33:49 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 01:33:55 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 01:33:55 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 01:34:13 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 01:34:13 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 01:34:18 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 01:34:18 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 01:34:33 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 01:34:33 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 01:35:21 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 01:35:21 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 01:35:42 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 01:35:42 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 09:27:42 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 09:27:42 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 10:11:15 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 10:11:15 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 12:19:50 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 12:19:50 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 13:51:34 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 13:51:34 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 14:15:56 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 14:15:56 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 14:36:52 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 14:36:52 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 15:34:24 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 15:34:24 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[30-Mar-2018 06:53:35 UTC] PHP Warning:  include(includes/config): failed to open stream: No such file or directory in E:\inetpub\wwwroot\wateruse_dev\readme.php on line 2
+[30-Mar-2018 06:53:35 UTC] PHP Warning:  include(): Failed opening 'includes/config' for inclusion (include_path='.;C:\php\pear') in E:\inetpub\wwwroot\wateruse_dev\readme.php on line 2
+[30-Mar-2018 06:53:35 UTC] PHP Notice:  Undefined variable: _SESSION in E:\inetpub\wwwroot\wateruse_dev\readme.php on line 5
+[30-Mar-2018 06:57:14 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 1
+[30-Mar-2018 06:57:14 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.;C:\php\pear') in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 1
+[30-Mar-2018 06:57:14 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 13
+[30-Mar-2018 06:57:14 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 14
+[30-Mar-2018 06:57:14 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 18
+[30-Mar-2018 06:57:14 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 29
+[30-Mar-2018 06:57:14 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 30
+[30-Mar-2018 06:57:14 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 34
+[30-Mar-2018 06:57:14 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 42
+[30-Mar-2018 06:57:14 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 44
+[30-Mar-2018 06:57:14 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 45
+[30-Mar-2018 06:57:14 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 46
+[30-Mar-2018 06:57:14 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 47
+[30-Mar-2018 06:57:14 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 48
+[30-Mar-2018 06:57:14 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 52
+[30-Mar-2018 06:57:14 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 53
+[30-Mar-2018 06:57:14 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 54
+[30-Mar-2018 06:57:14 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 63
+[30-Mar-2018 06:57:14 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 65
+[30-Mar-2018 06:57:14 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 66
+[30-Mar-2018 06:57:14 UTC] PHP Notice:  Undefined variable: _SESSION in E:\inetpub\wwwroot\wateruse_dev\readme.php on line 8
+[30-Mar-2018 06:58:16 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\readme.php on line 5
+[30-Mar-2018 06:58:16 UTC] PHP Warning:  A non-numeric value encountered in E:\inetpub\wwwroot\wateruse_dev\readme.php on line 5
+[30-Mar-2018 06:58:16 UTC] PHP Warning:  A non-numeric value encountered in E:\inetpub\wwwroot\wateruse_dev\readme.php on line 5
+[30-Mar-2018 06:58:16 UTC] PHP Fatal error:  Uncaught Error: Class 'bootstrap_ui' not found in E:\inetpub\wwwroot\wateruse_dev\readme.php:21
+Stack trace:
+#0 {main}
+  thrown in E:\inetpub\wwwroot\wateruse_dev\readme.php on line 21
+[30-Mar-2018 06:58:29 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\readme.php on line 5
+[30-Mar-2018 06:58:29 UTC] PHP Warning:  A non-numeric value encountered in E:\inetpub\wwwroot\wateruse_dev\readme.php on line 5
+[30-Mar-2018 06:58:29 UTC] PHP Warning:  A non-numeric value encountered in E:\inetpub\wwwroot\wateruse_dev\readme.php on line 5
+[30-Mar-2018 06:58:29 UTC] PHP Fatal error:  Uncaught Error: Class 'bootstrap_ui' not found in E:\inetpub\wwwroot\wateruse_dev\readme.php:21
+Stack trace:
+#0 {main}
+  thrown in E:\inetpub\wwwroot\wateruse_dev\readme.php on line 21
+[30-Mar-2018 07:01:12 UTC] PHP Warning:  include(../includes/header_config.php): failed to open stream: No such file or directory in E:\inetpub\wwwroot\wateruse_dev\readme.php on line 3
+[30-Mar-2018 07:01:12 UTC] PHP Warning:  include(): Failed opening '../includes/header_config.php' for inclusion (include_path='.;C:\php\pear') in E:\inetpub\wwwroot\wateruse_dev\readme.php on line 3
+[30-Mar-2018 07:01:19 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 1
+[30-Mar-2018 07:01:19 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.;C:\php\pear') in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 1
+[30-Mar-2018 07:01:19 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 13
+[30-Mar-2018 07:01:19 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 14
+[30-Mar-2018 07:01:19 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 18
+[30-Mar-2018 07:01:19 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 29
+[30-Mar-2018 07:01:19 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 30
+[30-Mar-2018 07:01:19 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 34
+[30-Mar-2018 07:01:19 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 42
+[30-Mar-2018 07:01:19 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 44
+[30-Mar-2018 07:01:19 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 45
+[30-Mar-2018 07:01:19 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 46
+[30-Mar-2018 07:01:19 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 47
+[30-Mar-2018 07:01:19 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 48
+[30-Mar-2018 07:01:19 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 52
+[30-Mar-2018 07:01:19 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 53
+[30-Mar-2018 07:01:19 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 54
+[30-Mar-2018 07:01:19 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 63
+[30-Mar-2018 07:01:19 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 65
+[30-Mar-2018 07:01:19 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 66
+[30-Mar-2018 07:01:28 UTC] PHP Warning:  include(../config.php): failed to open stream: No such file or directory in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 1
+[30-Mar-2018 07:01:28 UTC] PHP Warning:  include(): Failed opening '../config.php' for inclusion (include_path='.;C:\php\pear') in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 1
+[30-Mar-2018 07:01:28 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 13
+[30-Mar-2018 07:01:28 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 14
+[30-Mar-2018 07:01:28 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 18
+[30-Mar-2018 07:01:28 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 29
+[30-Mar-2018 07:01:28 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 30
+[30-Mar-2018 07:01:28 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 34
+[30-Mar-2018 07:01:28 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 42
+[30-Mar-2018 07:01:28 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 44
+[30-Mar-2018 07:01:28 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 45
+[30-Mar-2018 07:01:28 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 46
+[30-Mar-2018 07:01:28 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 47
+[30-Mar-2018 07:01:28 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 48
+[30-Mar-2018 07:01:28 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 52
+[30-Mar-2018 07:01:28 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 53
+[30-Mar-2018 07:01:28 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 54
+[30-Mar-2018 07:01:28 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 63
+[30-Mar-2018 07:01:28 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 65
+[30-Mar-2018 07:01:28 UTC] PHP Notice:  Undefined variable: dir in E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php on line 66
+[30-Mar-2018 07:01:28 UTC] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at E:\inetpub\wwwroot\wateruse_dev\includes\header_config.php:45) in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 12
+[25-Jun-2018 17:15:42 UTC] PHP Warning:  include(includes/html/ann_data.php): failed to open stream: No such file or directory in E:\inetpub\wwwroot\wateruse_dev\annual_data.php on line 5
+[25-Jun-2018 17:15:42 UTC] PHP Warning:  include(): Failed opening 'includes/html/ann_data.php' for inclusion (include_path='.;C:\php\pear') in E:\inetpub\wwwroot\wateruse_dev\annual_data.php on line 5
+[25-Jun-2018 17:15:44 UTC] PHP Warning:  include(includes/html/ann_data.php): failed to open stream: No such file or directory in E:\inetpub\wwwroot\wateruse_dev\annual_data.php on line 5
+[25-Jun-2018 17:15:44 UTC] PHP Warning:  include(): Failed opening 'includes/html/ann_data.php' for inclusion (include_path='.;C:\php\pear') in E:\inetpub\wwwroot\wateruse_dev\annual_data.php on line 5
+[25-Jun-2018 17:15:52 UTC] PHP Warning:  include(includes/html/ann_data.php): failed to open stream: No such file or directory in E:\inetpub\wwwroot\wateruse_dev\annual_data.php on line 5
+[25-Jun-2018 17:15:52 UTC] PHP Warning:  include(): Failed opening 'includes/html/ann_data.php' for inclusion (include_path='.;C:\php\pear') in E:\inetpub\wwwroot\wateruse_dev\annual_data.php on line 5
+[25-Jun-2018 17:16:13 UTC] PHP Warning:  include(includes/html/ann_data.php): failed to open stream: No such file or directory in E:\inetpub\wwwroot\wateruse_dev\annual_data.php on line 5
+[25-Jun-2018 17:16:13 UTC] PHP Warning:  include(): Failed opening 'includes/html/ann_data.php' for inclusion (include_path='.;C:\php\pear') in E:\inetpub\wwwroot\wateruse_dev\annual_data.php on line 5
+[16-Jul-2018 07:27:08 America/Denver] PHP Warning:  oci_connect(): OCI_SUCCESS_WITH_INFO: ORA-28002: the password will expire within 5 days in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 116
+[16-Jul-2018 07:28:09 America/Denver] PHP Warning:  oci_connect(): OCI_SUCCESS_WITH_INFO: ORA-28002: the password will expire within 5 days in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 116
+[16-Jul-2018 07:28:09 America/Denver] PHP Warning:  oci_connect(): OCI_SUCCESS_WITH_INFO: ORA-28002: the password will expire within 5 days in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 116
+[16-Jul-2018 07:34:41 America/Denver] PHP Warning:  oci_connect(): OCI_SUCCESS_WITH_INFO: ORA-28002: the password will expire within 5 days in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 116
+[16-Jul-2018 07:42:27 America/Denver] PHP Warning:  oci_connect(): OCI_SUCCESS_WITH_INFO: ORA-28002: the password will expire within 5 days in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 116
+[16-Jul-2018 14:29:36 America/Denver] PHP Warning:  oci_connect(): OCI_SUCCESS_WITH_INFO: ORA-28002: the password will expire within 5 days in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 116
+[16-Jul-2018 14:37:01 America/Denver] PHP Warning:  oci_connect(): OCI_SUCCESS_WITH_INFO: ORA-28002: the password will expire within 5 days in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 116

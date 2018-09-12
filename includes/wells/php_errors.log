@@ -1,0 +1,140 @@
+[03-Jan-2018 18:33:44 UTC] PHP Deprecated:  Function mcrypt_create_iv() is deprecated in E:\inetpub\wwwroot\wateruse\includes\config.php on line 14
+[03-Jan-2018 18:34:19 UTC] PHP Deprecated:  Function mcrypt_create_iv() is deprecated in E:\inetpub\wwwroot\wateruse\includes\config.php on line 14
+[04-Jan-2018 20:49:38 UTC] PHP Notice:  Undefined index: USER_ID in E:\inetpub\wwwroot\wateruse\includes\config.php on line 19
+[04-Jan-2018 20:50:02 UTC] PHP Notice:  Undefined index: USER_ID in E:\inetpub\wwwroot\wateruse\includes\config.php on line 19
+[08-Jan-2018 20:13:31 UTC] PHP Notice:  Undefined index: USER_ID in E:\inetpub\wwwroot\wateruse\includes\config.php on line 19
+[09-Jan-2018 18:31:01 UTC] PHP Notice:  Undefined index: USER_ID in E:\inetpub\wwwroot\wateruse\includes\config.php on line 19
+[09-Jan-2018 18:31:09 UTC] PHP Notice:  Undefined index: USER_ID in E:\inetpub\wwwroot\wateruse\includes\config.php on line 19
+[09-Jan-2018 18:31:25 UTC] PHP Notice:  Undefined index: USER_ID in E:\inetpub\wwwroot\wateruse\includes\config.php on line 19
+[09-Jan-2018 18:31:29 UTC] PHP Notice:  Undefined index: USER_ID in E:\inetpub\wwwroot\wateruse\includes\config.php on line 19
+[09-Jan-2018 18:31:34 UTC] PHP Notice:  Undefined index: USER_ID in E:\inetpub\wwwroot\wateruse\includes\config.php on line 19
+[12-Jan-2018 23:52:55 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[12-Jan-2018 23:52:55 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[12-Jan-2018 23:56:01 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[12-Jan-2018 23:56:01 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[13-Jan-2018 12:46:22 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[13-Jan-2018 12:46:22 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[13-Jan-2018 13:02:43 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[13-Jan-2018 13:02:43 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[13-Jan-2018 13:03:04 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[13-Jan-2018 13:03:04 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[13-Jan-2018 13:13:58 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[13-Jan-2018 13:13:58 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[13-Jan-2018 14:22:05 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[13-Jan-2018 14:22:05 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[13-Jan-2018 14:24:57 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[13-Jan-2018 14:24:57 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[13-Jan-2018 14:32:57 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[13-Jan-2018 14:32:57 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[14-Jan-2018 13:24:39 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[14-Jan-2018 13:24:39 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[14-Jan-2018 13:47:44 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[14-Jan-2018 13:47:44 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 12:49:34 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 12:49:34 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 12:58:07 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 12:58:07 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 13:00:25 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 13:00:25 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 13:49:28 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 13:49:28 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 14:41:44 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 14:41:44 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 14:42:05 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 14:42:05 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 19:13:34 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 19:13:34 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 20:06:26 UTC] PHP Warning:  oci_connect(): ORA-12170: TNS:Connect timeout occurred in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 20:06:26 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 21:56:01 UTC] PHP Warning:  oci_connect(): ORA-12154: TNS:could not resolve the connect identifier specified in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 21:56:01 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 22:36:04 UTC] PHP Warning:  oci_connect(): ORA-12154: TNS:could not resolve the connect identifier specified in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 22:36:04 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 22:41:00 UTC] PHP Warning:  oci_connect(): ORA-01017: invalid username/password; logon denied in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[15-Jan-2018 22:41:00 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[24-Jan-2018 18:40:50 UTC] PHP Warning:  oci_connect(): ORA-12514: TNS:listener does not currently know of service requested in connect descriptor in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[24-Jan-2018 18:40:50 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[24-Jan-2018 18:40:50 UTC] PHP Warning:  oci_connect(): ORA-12514: TNS:listener does not currently know of service requested in connect descriptor in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[24-Jan-2018 18:40:50 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[24-Jan-2018 18:40:51 UTC] PHP Warning:  oci_connect(): ORA-12514: TNS:listener does not currently know of service requested in connect descriptor in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[24-Jan-2018 18:40:51 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[24-Jan-2018 18:40:51 UTC] PHP Warning:  oci_connect(): ORA-12514: TNS:listener does not currently know of service requested in connect descriptor in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[24-Jan-2018 18:40:51 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[24-Jan-2018 18:40:51 UTC] PHP Warning:  oci_connect(): ORA-12514: TNS:listener does not currently know of service requested in connect descriptor in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[24-Jan-2018 18:40:51 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[24-Jan-2018 18:40:51 UTC] PHP Warning:  oci_connect(): ORA-12514: TNS:listener does not currently know of service requested in connect descriptor in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[24-Jan-2018 18:40:51 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[24-Jan-2018 18:40:52 UTC] PHP Warning:  oci_connect(): ORA-12514: TNS:listener does not currently know of service requested in connect descriptor in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[24-Jan-2018 18:40:52 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[30-Jan-2018 17:32:47 UTC] PHP Warning:  oci_connect(): ORA-12514: TNS:listener does not currently know of service requested in connect descriptor in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[30-Jan-2018 17:32:47 UTC] PHP Warning:  oci_error() expects parameter 1 to be resource, boolean given in E:\inetpub\wwwroot\wateruse\includes\config.php on line 29
+[04-Feb-2018 05:11:20 UTC] PHP Parse error:  syntax error, unexpected end of file in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 7032
+[30-Mar-2018 06:34:56 UTC] PHP Parse error:  syntax error, unexpected '$deadline_ts' (T_VARIABLE) in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 19
+[21-Jun-2018 16:29:07 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '{' or '$' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6617
+[21-Jun-2018 16:29:09 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '{' or '$' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6617
+[21-Jun-2018 16:29:25 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '{' or '$' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6617
+[21-Jun-2018 16:29:50 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '{' or '$' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6617
+[21-Jun-2018 16:30:20 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '{' or '$' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6617
+[21-Jun-2018 16:31:15 UTC] PHP Parse error:  syntax error, unexpected '1' (T_LNUMBER), expecting variable (T_VARIABLE) or '{' or '$' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6617
+[25-Jun-2018 17:23:59 UTC] PHP Parse error:  syntax error, unexpected '}' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 294
+[25-Jun-2018 17:23:59 UTC] PHP Parse error:  syntax error, unexpected '}' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 294
+[06-Jul-2018 18:01:26 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting function (T_FUNCTION) or const (T_CONST) in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 4881
+[11-Jul-2018 19:52:31 UTC] PHP Parse error:  syntax error, unexpected '.', expecting variable (T_VARIABLE) or '{' or '$' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6373
+[11-Jul-2018 19:53:13 UTC] PHP Parse error:  syntax error, unexpected '.', expecting variable (T_VARIABLE) or '{' or '$' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6373
+[11-Jul-2018 19:53:23 UTC] PHP Parse error:  syntax error, unexpected '.', expecting variable (T_VARIABLE) or '{' or '$' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6373
+[12-Jul-2018 02:58:02 UTC] PHP Parse error:  syntax error, unexpected '$fconverted_ent_loss' (T_VARIABLE) in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6166
+[13-Jul-2018 18:02:58 UTC] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6248
+[13-Jul-2018 18:03:07 UTC] PHP Parse error:  syntax error, unexpected ';' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6248
+[13-Jul-2018 18:03:21 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6249
+[13-Jul-2018 18:03:35 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6249
+[13-Jul-2018 18:03:55 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6249
+[13-Jul-2018 18:03:56 UTC] PHP Parse error:  syntax error, unexpected ')', expecting ']' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6249
+[13-Jul-2018 18:46:41 UTC] PHP Parse error:  syntax error, unexpected ',' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6250
+[13-Jul-2018 18:46:58 UTC] PHP Parse error:  syntax error, unexpected ',' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6253
+[13-Jul-2018 18:48:40 UTC] PHP Parse error:  syntax error, unexpected ';' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6250
+[13-Jul-2018 18:48:40 UTC] PHP Parse error:  syntax error, unexpected ';' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6250
+[13-Jul-2018 18:48:40 UTC] PHP Parse error:  syntax error, unexpected ';' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6250
+[13-Jul-2018 18:51:35 UTC] PHP Parse error:  syntax error, unexpected ',' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6253
+[13-Jul-2018 18:52:43 UTC] PHP Parse error:  syntax error, unexpected '$preNotes' (T_VARIABLE) in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6268
+[13-Jul-2018 19:09:05 UTC] PHP Parse error:  syntax error, unexpected '[', expecting '(' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6259
+[13-Jul-2018 19:09:47 UTC] PHP Parse error:  syntax error, unexpected '[', expecting '(' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6259
+[13-Jul-2018 19:09:48 UTC] PHP Parse error:  syntax error, unexpected '[', expecting '(' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6259
+[13-Jul-2018 19:09:57 UTC] PHP Parse error:  syntax error, unexpected '[', expecting '(' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6259
+[13-Jul-2018 19:10:12 UTC] PHP Parse error:  syntax error, unexpected ')' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6259
+[13-Jul-2018 19:10:44 UTC] PHP Parse error:  syntax error, unexpected '"agr_no: "' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) or '{' or '$' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6277
+[13-Jul-2018 19:10:57 UTC] PHP Parse error:  syntax error, unexpected '"agr_no: "' (T_CONSTANT_ENCAPSED_STRING), expecting variable (T_VARIABLE) or '{' or '$' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6277
+[14-Jul-2018 02:59:18 UTC] PHP Parse error:  syntax error, unexpected ';' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6280
+[14-Jul-2018 03:31:13 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6252
+[14-Jul-2018 03:31:15 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6252
+[14-Jul-2018 08:13:36 UTC] PHP Parse error:  syntax error, unexpected '=' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 7285
+[16-Jul-2018 07:28:13 America/Denver] PHP Warning:  oci_connect(): OCI_SUCCESS_WITH_INFO: ORA-28002: the password will expire within 5 days in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 116
+[16-Jul-2018 14:25:32 America/Denver] PHP Warning:  oci_connect(): OCI_SUCCESS_WITH_INFO: ORA-28002: the password will expire within 5 days in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 116
+[16-Jul-2018 14:29:08 America/Denver] PHP Warning:  oci_connect(): OCI_SUCCESS_WITH_INFO: ORA-28002: the password will expire within 5 days in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 116
+[16-Jul-2018 14:29:11 America/Denver] PHP Warning:  oci_connect(): OCI_SUCCESS_WITH_INFO: ORA-28002: the password will expire within 5 days in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 116
+[16-Jul-2018 14:29:37 America/Denver] PHP Warning:  oci_connect(): OCI_SUCCESS_WITH_INFO: ORA-28002: the password will expire within 5 days in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 116
+[17-Jul-2018 00:33:54 UTC] PHP Parse error:  syntax error, unexpected ';' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 7238
+[17-Jul-2018 00:34:25 UTC] PHP Parse error:  syntax error, unexpected ';' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 7238
+[17-Jul-2018 00:35:07 UTC] PHP Parse error:  syntax error, unexpected ';' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 7238
+[17-Jul-2018 00:35:23 UTC] PHP Parse error:  syntax error, unexpected '.' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 7434
+[17-Jul-2018 00:35:31 UTC] PHP Parse error:  syntax error, unexpected ';' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 7238
+[17-Jul-2018 00:35:43 UTC] PHP Parse error:  syntax error, unexpected ';' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 7238
+[17-Jul-2018 00:35:58 UTC] PHP Parse error:  syntax error, unexpected '.' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 7434
+[17-Jul-2018 00:35:59 UTC] PHP Parse error:  syntax error, unexpected '.' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 7434
+[17-Jul-2018 00:36:17 UTC] PHP Parse error:  syntax error, unexpected '.' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 7434
+[17-Jul-2018 00:36:50 UTC] PHP Parse error:  syntax error, unexpected '.' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 7434
+[17-Jul-2018 00:37:24 UTC] PHP Parse error:  syntax error, unexpected ';' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 7238
+[17-Jul-2018 00:37:41 UTC] PHP Parse error:  syntax error, unexpected ';' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 7238
+[17-Jul-2018 00:38:25 UTC] PHP Parse error:  syntax error, unexpected ';' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 7238
+[17-Jul-2018 00:38:43 UTC] PHP Parse error:  syntax error, unexpected ';' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 7238
+[17-Jul-2018 00:40:23 UTC] PHP Parse error:  syntax error, unexpected ';' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 7251
+[17-Jul-2018 00:40:44 UTC] PHP Parse error:  syntax error, unexpected ';' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 7251
+[17-Jul-2018 00:41:51 UTC] PHP Parse error:  syntax error, unexpected ';' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 7252
+[17-Jul-2018 00:42:02 UTC] PHP Parse error:  syntax error, unexpected ';' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 7252
+[19-Jul-2018 06:01:36 UTC] PHP Parse error:  syntax error, unexpected '$eParserMeter' (T_VARIABLE) in E:\inetpub\wwwroot\wateruse_dev2\includes\config.php on line 5658
+[19-Jul-2018 06:02:31 UTC] PHP Parse error:  syntax error, unexpected '$eParser2' (T_VARIABLE) in E:\inetpub\wwwroot\wateruse_dev2\includes\config.php on line 5889
+[19-Jul-2018 06:02:33 UTC] PHP Parse error:  syntax error, unexpected '$eParser2' (T_VARIABLE) in E:\inetpub\wwwroot\wateruse_dev2\includes\config.php on line 5889
+[11-Sep-2018 15:15:31 UTC] PHP Parse error:  syntax error, unexpected 'ann_data' (T_STRING) in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 5675
+[11-Sep-2018 15:57:14 UTC] PHP Parse error:  syntax error, unexpected ')' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 5741
+[11-Sep-2018 15:58:27 UTC] PHP Parse error:  syntax error, unexpected ')' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 5924
+[11-Sep-2018 15:58:29 UTC] PHP Parse error:  syntax error, unexpected ')' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 5924
+[11-Sep-2018 15:58:30 UTC] PHP Parse error:  syntax error, unexpected ')' in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 5924

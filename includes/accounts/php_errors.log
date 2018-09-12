@@ -1,0 +1,13 @@
+[08-Jan-2018 14:23:24 UTC] PHP Notice:  Undefined index: USER_ID in E:\inetpub\wwwroot\wateruse\includes\config.php on line 19
+[09-Jan-2018 18:31:37 UTC] PHP Notice:  Undefined index: USER_ID in E:\inetpub\wwwroot\wateruse\includes\config.php on line 19
+[09-Jan-2018 18:31:37 UTC] PHP Notice:  Undefined index: USER_ID in E:\inetpub\wwwroot\wateruse\includes\config.php on line 19
+[09-Jan-2018 18:32:27 UTC] PHP Notice:  Undefined index: USER_ID in E:\inetpub\wwwroot\wateruse\includes\config.php on line 19
+[09-Jan-2018 18:32:46 UTC] PHP Notice:  Undefined index: USER_ID in E:\inetpub\wwwroot\wateruse\includes\config.php on line 19
+[09-Jan-2018 18:32:48 UTC] PHP Notice:  Undefined index: USER_ID in E:\inetpub\wwwroot\wateruse\includes\config.php on line 19
+[09-Jan-2018 18:32:49 UTC] PHP Notice:  Undefined index: USER_ID in E:\inetpub\wwwroot\wateruse\includes\config.php on line 19
+[14-Jul-2018 03:31:10 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 6252
+[16-Jul-2018 07:26:45 America/Denver] PHP Warning:  oci_connect(): OCI_SUCCESS_WITH_INFO: ORA-28002: the password will expire within 5 days in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 116
+[16-Jul-2018 07:27:30 America/Denver] PHP Warning:  oci_connect(): OCI_SUCCESS_WITH_INFO: ORA-28002: the password will expire within 5 days in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 116
+[16-Jul-2018 07:27:46 America/Denver] PHP Warning:  oci_connect(): OCI_SUCCESS_WITH_INFO: ORA-28002: the password will expire within 5 days in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 116
+[16-Jul-2018 14:29:22 America/Denver] PHP Warning:  oci_connect(): OCI_SUCCESS_WITH_INFO: ORA-28002: the password will expire within 5 days in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 116
+[16-Jul-2018 14:29:22 America/Denver] PHP Warning:  oci_connect(): OCI_SUCCESS_WITH_INFO: ORA-28002: the password will expire within 5 days in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 116

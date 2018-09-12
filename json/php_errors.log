@@ -1,0 +1,18 @@
+[03-Jan-2018 18:33:45 UTC] PHP Deprecated:  Function mcrypt_create_iv() is deprecated in E:\inetpub\wwwroot\wateruse\includes\config.php on line 14
+[03-Jan-2018 18:34:20 UTC] PHP Deprecated:  Function mcrypt_create_iv() is deprecated in E:\inetpub\wwwroot\wateruse\includes\config.php on line 14
+[09-Jan-2018 16:03:35 UTC] PHP Notice:  Undefined index: USER_ID in E:\inetpub\wwwroot\wateruse\includes\config.php on line 19
+[09-Jan-2018 16:03:35 UTC] PHP Notice:  Undefined index: USER_ID in E:\inetpub\wwwroot\wateruse\includes\config.php on line 19
+[09-Jan-2018 16:03:35 UTC] PHP Notice:  Undefined index: USER_ID in E:\inetpub\wwwroot\wateruse\includes\config.php on line 19
+[09-Jan-2018 16:03:35 UTC] PHP Notice:  Undefined index: USER_ID in E:\inetpub\wwwroot\wateruse\includes\config.php on line 19
+[09-Jan-2018 16:03:35 UTC] PHP Notice:  Undefined index: USER_ID in E:\inetpub\wwwroot\wateruse\includes\config.php on line 19
+[09-Jan-2018 16:03:47 UTC] PHP Notice:  Undefined index: USER_ID in E:\inetpub\wwwroot\wateruse\includes\config.php on line 19
+[09-Jan-2018 16:03:47 UTC] PHP Notice:  Undefined index: USER_ID in E:\inetpub\wwwroot\wateruse\includes\config.php on line 19
+[09-Jan-2018 16:03:47 UTC] PHP Notice:  Undefined index: USER_ID in E:\inetpub\wwwroot\wateruse\includes\config.php on line 19
+[09-Jan-2018 16:03:47 UTC] PHP Notice:  Undefined index: USER_ID in E:\inetpub\wwwroot\wateruse\includes\config.php on line 19
+[09-Jan-2018 16:03:48 UTC] PHP Notice:  Undefined index: USER_ID in E:\inetpub\wwwroot\wateruse\includes\config.php on line 19
+[16-Jul-2018 07:28:13 America/Denver] PHP Warning:  oci_connect(): OCI_SUCCESS_WITH_INFO: ORA-28002: the password will expire within 5 days in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 116
+[16-Jul-2018 07:28:13 America/Denver] PHP Warning:  oci_connect(): OCI_SUCCESS_WITH_INFO: ORA-28002: the password will expire within 5 days in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 116
+[16-Jul-2018 07:28:29 America/Denver] PHP Warning:  oci_connect(): OCI_SUCCESS_WITH_INFO: ORA-28002: the password will expire within 5 days in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 116
+[16-Jul-2018 14:29:44 America/Denver] PHP Warning:  oci_connect(): OCI_SUCCESS_WITH_INFO: ORA-28002: the password will expire within 5 days in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 116
+[16-Jul-2018 14:29:45 America/Denver] PHP Warning:  oci_connect(): OCI_SUCCESS_WITH_INFO: ORA-28002: the password will expire within 5 days in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 116
+[16-Jul-2018 14:29:45 America/Denver] PHP Warning:  oci_connect(): OCI_SUCCESS_WITH_INFO: ORA-28002: the password will expire within 5 days in E:\inetpub\wwwroot\wateruse_dev\includes\config.php on line 116

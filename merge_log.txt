@@ -1,0 +1,9 @@
+Wateruse_dev merged to Wateruse 9/21/2017 Thursday, 8:55:12 AM 
+Wateruse_dev merged to Wateruse 9/24/2017 Sunday, 11:12:46 AM 
+Wateruse_dev merged to Wateruse 9/29/2017 Friday, 03:12:00 AM
+Wateruse_dev merged to Wateruse 10/3/2017 Tuesday, 3:03:16 PM 
+Wateruse_dev merged to Wateruse 10/4/2017 Wednesday, 08:25:00 PM - Temp fix for Bootstrap modal non-reposive
+Wateruse_dev merged to Wateruse 10/11/2017 Wednesday, 08:25:00 PM - hot fix for ann_data center bug and bootstrap modal
+Wateruse_dev merged to Wateruse 10/16/2017 Monday, 06:41:00 AM - added search MPID, fix couple bugs found on quick-edit.
+Wateruse_dev merged to Wateruse 11/9/2017 Tuesday, 3:03:11 AM - A LOT!! TL;FI (Too long;forgot it).
+Wateruse_dev merged to Wateruse 12/26/2017 Tuesday, 6:53:11 AM - A LOT!! TL;FI (Too Long mainly Jonesboro and Lonoke county enhancements and 56-63)
