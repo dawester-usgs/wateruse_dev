@@ -741,6 +741,20 @@ function appendInfo(t,q){
 																	</div> \
 																</td>\
 																</tr>');	
+																var email;
+																if (item.email){
+																	email = item.email;
+																}else{
+																	email = "";
+																}
+												$("#result-table").append('<tr> \
+																<td> \
+																<div class="table-contents">\
+																	<div class="table-row-title">Email Address:</div> \
+																	<div class="table-row-content editable"  id="email" name="email">'+email+'</div> \
+																	</div> \
+																</td>\
+																</tr>');
 										if (t == "Facility"){
 											$("#result-table").append('<tr> \
 																<td> \
@@ -863,6 +877,7 @@ function appendInfo(t,q){
 						});
 							
 						$("#phone").inputmask("(999) 999-9999");
+						$("#email").inputmask("_@_._");
 					$('#editInfo').click(function(evt){
 							evt.preventDefault();
 							k = k + 1;
@@ -3271,7 +3286,7 @@ var getJSONData = {
 											
 											$("#status-div").empty();
 										
-										//	$("#status-div").html('Owner Succesfully loaded');
+										//	$("#status-div").html('Owner +');
 										//	$("#status-div-edit").html('Owner Succesfully loaded');
 										}else{
 												
@@ -3770,7 +3785,7 @@ var getJSONData = {
 								
 									$("select[name='power_tp']").val(item.power_tp);
 									$("select[name='diversion_meth']").val(item.diversion_meth);
-									$("input:radio[name='flow_meter']").val([item.meter_flg]);
+									$("input:radio[name='flow_meter']").val(item.meter_flg);
 									$("input:radio[name='rec_waste']").val([item.rec_waste]);
 									
 									
@@ -6446,6 +6461,7 @@ $("#source_cd_station").on('change',function(){
 	<div class="col-sm col-sm-offset-6 auto" style="padding-bottom:20px;">	
 
 			<a href="#" id="advance-search" data-toggle="modal" data-target="#advance-search-modal"><i class="fa fa-search"></i> Advance Search option</a>
+			
 	
 	</div>
 	

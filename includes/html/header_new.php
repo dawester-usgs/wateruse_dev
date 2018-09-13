@@ -120,6 +120,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		</ul>
 	  <?php } ?>
 	  
+	  <li><a href="#" id="resources">Resources</a></li>
 	  <li><a href="#" id="about">About Water Use Project</a></li>
 	  <li><a href="#" id="contactus">Contact Us</a></li>
 		<?php if ($_SESSION) {?>

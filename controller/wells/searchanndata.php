@@ -248,6 +248,7 @@ elseif ($t==3){
 									
 								}
 								
+								
 								if (!empty($datax)){
 									$data2 = array_merge($rows,$datax);
 								}else{
