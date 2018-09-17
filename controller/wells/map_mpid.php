@@ -402,13 +402,15 @@ else{
 		if ($_GET['t']  == 'Diverter'  || $_GET['t'] == 'Owner'){
 				$query = "select 
 							ann_data.mpid, 
-							".$t_name." as NAME,
-							".$t_nameOpposite." as NAME2,
-							".$typeo.".".$typeo."_id as  ".$t1."ID,
-							".$_GET['t'] .".".$_GET['t'] ."_id as ".$t2."ID,
+							diverter.diverter_nm,
+							owner.owner_nm,
+							ann_data.diverter_id,
+							ann_data.owner_id,
 							ann_data.use_cd, 
 							ann_data.paid,
 							ann_data.wyear,
+							ann_data.paid,
+							
 							station.action_cd,
 							station.latitude,
 							station.longitude,
@@ -416,16 +418,16 @@ else{
 							station.longitude_dd
 							from ann_data 
 
-							
+							inner join station on station.mpid = ann_data.mpid
 							inner join diverter on ann_data.diverter_id = diverter.diverter_id
 							inner join owner on ann_data.owner_id = owner.owner_id	
-							inner join station on station.mpid = ann_data.mpid
-							where ".$conds."
+							
+							where ann_data.".$_GET['t']."_id= '".$_GET['q']."'
 							".$method."
 							".$county."
 							".$paid."
 							".$filterme."
-							".$isAbandonedConds."
+							
 							AND ann_data.wyear = '".$_GET['y']."'
 							
 				
@@ -439,24 +441,26 @@ else{
 			}elseif ($_GET['t']  == 'Diverter2'){
 				
 				$query = "SELECT 
-							ann_data.mpid, 
-							diverter.diverter_nm as NAME,
-							owner.owner_nm as NAME2,
-							diverter.diverter_id as DID,
-							owner.owner_id as OID,
+								ann_data.mpid, 
+							diverter.diverter_nm,
+							owner.owner_nm,
+							ann_data.diverter_id,
+							ann_data.owner_id,
 							ann_data.use_cd, 
 							ann_data.paid,
 							ann_data.wyear,
+							ann_data.paid,
+							
 							station.action_cd,
 							station.latitude,
 							station.longitude,
 							station.latitude_dd,
 							station.longitude_dd
 							from ann_data 
-							
+
+							inner join station on station.mpid = ann_data.mpid
 							inner join diverter on ann_data.diverter_id = diverter.diverter_id
 							inner join owner on ann_data.owner_id = owner.owner_id	
-						inner join station on station.mpid = ann_data.mpid
 							where ann_data.diverter_id = '".$_GET['q']."'
 							AND ann_data.owner_".$z." = '".$_GET['z']."'
 							
@@ -476,24 +480,25 @@ else{
 				
 			}elseif ($_GET['t'] == 'Owner2'){
 				$query = "SELECT ann_data.mpid, 
-							diverter.diverter_nm as NAME2,
-							owner.owner_nm as NAME,
-							diverter.diverter_id as DID,
-							owner.owner_id as OID,
-							ann_data.use_cd,
+							diverter.diverter_nm,
+							owner.owner_nm,
+							ann_data.diverter_id,
+							ann_data.owner_id,
+							ann_data.use_cd, 
 							ann_data.paid,
 							ann_data.wyear,
+							ann_data.paid,
+							
 							station.action_cd,
 							station.latitude,
 							station.longitude,
 							station.latitude_dd,
 							station.longitude_dd
 							from ann_data 
-							
-							inner join owner on ann_data.owner_id = owner.owner_id
-							inner join diverter on ann_data.diverter_id = diverter.diverter_id
+
 							inner join station on station.mpid = ann_data.mpid
-						
+							inner join diverter on ann_data.diverter_id = diverter.diverter_id
+							inner join owner on ann_data.owner_id = owner.owner_id	
 							where ann_data.owner_id = '".$_GET['q']."' 
 							AND ann_data.diverter_".$z." = '".$_GET['z']."'
 							
@@ -614,48 +619,45 @@ else{
 				
 				
 				
-				$hasData ='No';
-				$use_cd = 'N/A';
-				$hasPayment ='No';
 				
-				$searchStation = "SELECT 
-									source_cd,
-									local_desc,
-									county.county_cd,
-									county.county_nm
-								FROM 
-									Station
-                                    inner join county on station.county_cd = county.county_cd
-									WHERE 
-										MPID = '".$row['MPID']."'
+				// $searchStation = "SELECT 
+									// source_cd,
+									// local_desc,
+									// county.county_cd,
+									// county.county_nm
+								// FROM 
+									// Station
+                                    // inner join county on station.county_cd = county.county_cd
+									// WHERE 
+										// MPID = '".$row['MPID']."'
 										
-									";
-						
+									// ";
+					// marker problem	
 								
-					$parse = oci_parse($conn, $searchStation);
-					$err2 = oci_execute($parse);
+					// $parse = oci_parse($conn, $searchStation);
+					// $err2 = oci_execute($parse);
 					
-					while ($row2 = oci_fetch_array($parse, OCI_BOTH)){
-						$county_cd = $row2['COUNTY_CD'];
-						$county_nm = $row2['COUNTY_NM'];
-						$local_desc = $row2['LOCAL_DESC'];
-						$source_cd = $row2['SOURCE_CD'];
+					// while ($row2 = oci_fetch_array($parse, OCI_BOTH)){
+						// $county_cd = $row2['COUNTY_CD'];
+						// $county_nm = $row2['COUNTY_NM'];
+						// $local_desc = $row2['LOCAL_DESC'];
+						// $source_cd = $row2['SOURCE_CD'];
 						
-						#print $searchStation;
-					}
+						// #print $searchStation;
+					// }
 					
 					
 					if ($_GET['t'] !='Facility'){
 					
 					$datagetAnnDataOnly[] = array("mpid" =>$row['MPID'],
-										"owner_nm" =>$row['ONAME'],
-										"diverter_nm" =>$row['DNAME'],
-										"owner_id" =>$row['OID'],
-										"diverter_id" =>$row['DID'],
+										"owner_nm" =>$row['OWNER_NM'],
+										"diverter_nm" =>$row['DIVERTER_NM'],
+										"owner_id" =>$row['OWNER_ID'],
+										"diverter_id" =>$row['DIVERTER_ID'],
 										"source_cd" => $row['SOURCE_CD'],
 										"use_cd" =>$use_cd,
-										"paid" => $hasPayment,
-										"data" => $hasData,
+										"paid" => $row['PAID'],
+											"data" => "Yes",
 										"local_desc" => $row['LOCAL_DESC'],
 										"action" => $row['ACTION_CD'],
 										"county_cd" => $row['COUNTY_CD'],

@@ -1,10 +1,16 @@
 
 var aLocation = location.pathname.split("/");
 var $isDev;
+var url;
 if (aLocation[1] == 'wateruse_dev'){
 	$isDev= true;
+	url = "wateruse_dev";
 	
+}else if (aLocation[1] == 'wateruse_dev2'){
+	$isDev = true;
+	url = "wateruse_dev2";
 }else{
+	url = "wateruse";
 	$isDev= false;
 	var css = 'color: red;\
 				  text-shadow:\
@@ -24,6 +30,11 @@ if (aLocation[1] == 'wateruse_dev'){
 var $dir; 
 
 $dir = $isDev == true ? $dir = "wateruse_dev" : $dir = "wateruse";
+if ($isDev == true){
+	$dir = url;
+}else{
+	$dir = url;
+}
 /*
 function msieversion() {
 

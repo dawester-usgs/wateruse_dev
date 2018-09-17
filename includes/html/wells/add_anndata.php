@@ -774,7 +774,7 @@ $(document).ready(function(){
 										diditsavecrops = false;
 										$(".status_1").html('Error');
 										$(".status_1").css('color','red');
-										console.log(err+" "+ajaxOptions+" "+throwError);
+										console.log(err);
 									}
 								
 								});		
@@ -804,7 +804,7 @@ $(document).ready(function(){
 											diditsaveemall = false;
 											$(".status_1").html('Error');
 											$(".status_1").css('color','red');
-											console.log(err+" "+ajaxOptions+" "+throwError);
+											console.log(err);
 										}
 									});	
 								}

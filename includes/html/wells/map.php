@@ -331,7 +331,7 @@ var usgsWellsMapping = {
 					}else{
 						latlng = [arr.latitude_dd,arr.longitude_dd];
 					}
-					
+					// console.log(latlng);
 					
 							boundary = L.esri.query({
 								url: 'https://gis.arkansas.gov/arcgis/rest/services/FEATURESERVICES/Boundaries/FeatureServer/8'
@@ -343,6 +343,7 @@ var usgsWellsMapping = {
 								// console.log(response.name);
 							  // }
 							// });
+							
 							boundary.nearby(latlng,1);
 							
 								
@@ -351,6 +352,7 @@ var usgsWellsMapping = {
 									isBound = featureCollection.features.length;
 									
 										if (isBound ==1){
+											
 											var url = arr.mpid+','+arr.year+','+arr.diverter_id+','+arr.owner_id;
 											var rawUrl = 'thempid='+arr.mpid+'&'+'type='+arr.type+'&';
 											

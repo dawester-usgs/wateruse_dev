@@ -5898,9 +5898,9 @@ class sql {
 				
 					$values2 ="'".$string2."'";
 					$queryAnndata2= "INSERT INTO ANN_DATA (".$columns2.") VALUES (".$values2.")";
-				
-					$parserAnnData = oci_parse($conn,$queryAnndata2);
-					$errAnnData = oci_execute($parserAnnData);
+					print $queryAnndata2;
+					// $parserAnnData = oci_parse($conn,$queryAnndata2);
+					// $errAnnData = oci_execute($parserAnnData);
 					
 					$notes .= "and Annual Data [".$jan.",".$feb.",".$mar.",".$apr.",".$may.",".$jun.",".$jul.",".$aug.",".$sept.",".$oct.",".$nov.",".$dec."] in ".$units;
 						// print $queryAnndata2;
