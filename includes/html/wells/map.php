@@ -325,7 +325,7 @@ var usgsWellsMapping = {
 					var ctr = 0;
 					var latlng = [];
 				
-					if (arr.latitude_dd == '0' && arr.longitude_dd == '0'){
+					if (arr.latitude_dd == '0' && arr.longitude_dd == '0' || arr.latitude_dd == null &&  arr.longitude_dd == null ){
 						ConvertedLatLng = usgsWellsMapping.convertToDD(parseInt(arr.latitude).toString(),parseInt(arr.longitude).toString());
 						latlng = [ConvertedLatLng[0],ConvertedLatLng[1]];
 					}else{

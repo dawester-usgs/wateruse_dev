@@ -410,7 +410,8 @@ else{
 							ann_data.paid,
 							ann_data.wyear,
 							ann_data.paid,
-							
+							station.county_cd,
+							county.county_nm,
 							station.action_cd,
 							station.latitude,
 							station.longitude,
@@ -421,6 +422,7 @@ else{
 							inner join station on station.mpid = ann_data.mpid
 							inner join diverter on ann_data.diverter_id = diverter.diverter_id
 							inner join owner on ann_data.owner_id = owner.owner_id	
+							inner join county on station.county_cd = county.county_cd	
 							
 							where ann_data.".$_GET['t']."_id= '".$_GET['q']."'
 							".$method."
@@ -450,7 +452,8 @@ else{
 							ann_data.paid,
 							ann_data.wyear,
 							ann_data.paid,
-							
+							station.county_cd,
+							county.county_nm,
 							station.action_cd,
 							station.latitude,
 							station.longitude,
@@ -461,6 +464,7 @@ else{
 							inner join station on station.mpid = ann_data.mpid
 							inner join diverter on ann_data.diverter_id = diverter.diverter_id
 							inner join owner on ann_data.owner_id = owner.owner_id	
+							inner join county on station.county_cd = county.county_cd	
 							where ann_data.diverter_id = '".$_GET['q']."'
 							AND ann_data.owner_".$z." = '".$_GET['z']."'
 							
@@ -480,6 +484,7 @@ else{
 				
 			}elseif ($_GET['t'] == 'Owner2'){
 				$query = "SELECT ann_data.mpid, 
+							ann_data.mpid, 
 							diverter.diverter_nm,
 							owner.owner_nm,
 							ann_data.diverter_id,
@@ -488,7 +493,8 @@ else{
 							ann_data.paid,
 							ann_data.wyear,
 							ann_data.paid,
-							
+							station.county_cd,
+							county.county_nm,
 							station.action_cd,
 							station.latitude,
 							station.longitude,
@@ -499,6 +505,7 @@ else{
 							inner join station on station.mpid = ann_data.mpid
 							inner join diverter on ann_data.diverter_id = diverter.diverter_id
 							inner join owner on ann_data.owner_id = owner.owner_id	
+							inner join county on station.county_cd = county.county_cd	
 							where ann_data.owner_id = '".$_GET['q']."' 
 							AND ann_data.diverter_".$z." = '".$_GET['z']."'
 							
